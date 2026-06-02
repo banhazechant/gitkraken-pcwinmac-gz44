@@ -1,4 +1,4 @@
-# 
+# Automatic GitKraken extensions for Mac OS | Elite GitKraken extensions for PC Windows. Featuring environment-variables and container-health-checks — optimized for maximum performance on every platform.
 
 
 
